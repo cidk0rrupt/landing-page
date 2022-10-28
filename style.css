@@ -1,3 +1,27 @@
-.header{
-    font-size: 48px;
+.header-logo{
+    font-size: 24px;
 }
+
+.header{
+    background-color: #1F2937;
+    color: #F9FAF8;
+}
+.hero-text{
+    font-size: 48px;
+    font-weight: extra-bold;
+}
+
+.information{
+    margin-block: 10px 20px;
+    background-color: #3882F6;
+}
+
+.quote{
+    color: #E5E7EB;
+
+}
+
+div{
+    flex: 1;
+}
+
